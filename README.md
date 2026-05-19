@@ -11,12 +11,13 @@ To write a python program for creating File Transfer using TCP Sockets Links
 ```
 client
 ```
-<img width="407" height="533" alt="image" src="https://github.com/user-attachments/assets/234bbdd0-6b02-44d0-9204-f61b58af2f86" />
+<img width="577" height="552" alt="image" src="https://github.com/user-attachments/assets/f45c6f16-68fa-4f41-b480-f836cc562fb8" />
+
 
  ```
 server
 ```
-<img width="847" height="705" alt="image" src="https://github.com/user-attachments/assets/091b17d2-390a-41c3-b93b-afc6c33d36a4" />
+
 
 
 ## OUPUT

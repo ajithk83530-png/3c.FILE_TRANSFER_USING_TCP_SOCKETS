@@ -37,7 +37,7 @@ server
 ```
 recived file
 ```
-<img width="1102" height="698" alt="image" src="https://github.com/user-attachments/assets/2e38cecb-5c22-40e3-834d-114fb15d3d90" />
+<img width="1364" height="613" alt="{21BE6263-D36C-4C56-81C3-744637B95FF2}" src="https://github.com/user-attachments/assets/5a248215-317b-494f-a29d-59156b825db5" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 

@@ -25,13 +25,14 @@ server
 ```
 client
 ```
-<img width="866" height="582" alt="image" src="https://github.com/user-attachments/assets/cec7c9b3-8be9-4800-b1f0-a70b56ab121d" />
+<img width="881" height="733" alt="Screenshot 2026-05-26 115027" src="https://github.com/user-attachments/assets/f616b521-9847-49ba-b15b-9d60ef1d4c1a" />
 
 
 ```
 server
 ```
-<img width="858" height="541" alt="image" src="https://github.com/user-attachments/assets/2567d1ae-1886-4312-938e-15c066260862" />
+<img width="1612" height="537" alt="Screenshot 2026-05-26 115053" src="https://github.com/user-attachments/assets/22297a33-ccf9-49d7-befe-b95abf5c680a" />
+
 
 ```
 recived file
